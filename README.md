@@ -1,2 +1,2 @@
-Nergard.EPi.Plugins.XmlResourceManager
-======================================
+Nergard.EPi.Plugins.RebuildSpecifiedURLSegments
+===============================================
